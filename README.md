@@ -955,6 +955,7 @@ You can click the "watch" button at the top right and select "Releases only" to 
 
 ### Latest Changes
 
+* ⬆ Bump docker/setup-buildx-action from 1 to 3. PR [#4](https://github.com/khulnasoft/uwsgi-nginx-flask-docker/pull/4) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * Update latest-changes.yml. PR [#6](https://github.com/khulnasoft/uwsgi-nginx-flask-docker/pull/6) by [@gitworkflows](https://github.com/gitworkflows).
 
 #### Internal
