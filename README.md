@@ -955,6 +955,8 @@ You can click the "watch" button at the top right and select "Releases only" to 
 
 ### Latest Changes
 
+* Update latest-changes.yml. PR [#6](https://github.com/khulnasoft/uwsgi-nginx-flask-docker/pull/6) by [@gitworkflows](https://github.com/gitworkflows).
+
 #### Internal
 
 * 🔧  Add GitHub templates for discussions and issues, and security policy. PR [#354](https://github.com/khulnasoft/uwsgi-nginx-flask-docker/pull/354) by [@alejsdev](https://github.com/alejsdev).
